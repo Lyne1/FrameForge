@@ -1,6 +1,6 @@
 # FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation
 
-[Project Page](https://lyne1.github.io/FrameForge-page/)
+[Paper](https://arxiv.org/pdf/2610.36545) · [Project Page](https://lyne1.github.io/FrameForge-page/)
 
 **Yijing Lin · Zhendong Mao · Mengqi Huang · Yuxin Wang · Yongdong Zhang**  
 University of Science and Technology of China
@@ -102,13 +102,17 @@ The launcher uses one GPU and reads the final configuration from [configs/final.
 
 ## Citation
 
-If you use FrameForge in research, please cite the manuscript. The entry below is provisional and can be updated when publication metadata is available.
+If you use FrameForge in research, please cite the [arXiv paper](https://arxiv.org/abs/2610.36545).
 
 ```bibtex
 @misc{lin2026frameforge,
   title  = {FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation},
   author = {Yijing Lin and Zhendong Mao and Mengqi Huang and Yuxin Wang and Yongdong Zhang},
-  year   = {2026}
+  year   = {2026},
+  eprint = {2610.36545},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url    = {https://arxiv.org/abs/2610.36545}
 }
 ```
 
